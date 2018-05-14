@@ -32,14 +32,14 @@ The proposed algorithm is composed of several stages:
 
 ## Examples
 
-![Original](https://github.com/RajaLehtihet/fing-enhance/raw/master/images/orig.png)
+![Original](https://github.com/RajaLehtihet/fing-enhancer/raw/master/images/orig.png)
 
 The returned image presents salient ridges:
 
-![Enhanced](https://github.com/RajaLehtihet/fing-enhance/raw/master/images/enhanced.png)
+![Enhanced](https://github.com/RajaLehtihet/fing-enhancer/raw/master/images/enhanced.png)
 
 ## License
-The present fingerprints image enhancer source code is licensed under Affero GPL version 3.0 or later. For any question  feel free to contact me at [Email](https://github.com/RajaLehtihet/fing-enhance/raw/master/images/raja.png)
+The present fingerprints image enhancer source code is licensed under Affero GPL version 3.0 or later. For any question  feel free to contact me at [Email](https://github.com/RajaLehtihet/fing-enhancer/raw/master/images/raja.png)
 
 ## Acknowledgements
 Libtiff Tools Cpyright (c) 2006, Rene Rebe, Copyright (c) 2004 for Andrey Kiselev
