@@ -12,7 +12,7 @@ make -j4
 
 ## Usage
 ```
-fing-enhancer -f 101_2.tiff
+fing-enhance -f 101_2.tiff
 ```
 
 ## Algorithm
