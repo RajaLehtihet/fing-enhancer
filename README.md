@@ -12,7 +12,7 @@ make -j4
 
 ## Usage
 ```
-fing-enhance -f 101_2.tiff
+fing-enhancer -f 101_2.tiff
 ```
 
 ## Algorithm
@@ -42,4 +42,4 @@ The returned image presents salient ridges:
 The present fingerprints image enhancer source code is licensed under Affero GPL version 3.0 or later. For any question  feel free to contact me at [Email](https://github.com/RajaLehtihet/fing-enhancer/raw/master/images/raja.png)
 
 ## Acknowledgements
-Libtiff Tools Cpyright (c) 2006, Rene Rebe, Copyright (c) 2004 for Andrey Kiselev
+Libtiff Tools Copyright (c) 2006, Rene Rebe, Copyright (c) 2004 for Andrey Kiselev
